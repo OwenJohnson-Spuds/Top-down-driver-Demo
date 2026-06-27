@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 8cc45b659b0100a4c9824d2ec2d89180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8235730627823241695
+    second: surprise-2_256_0
+  - first:
+      213: -3941619688755426817
+    second: surprise-2_256_1
+  - first:
+      213: -7314544719867720964
+    second: surprise-2_256_2
+  - first:
+      213: -735841524837029219
+    second: surprise-2_256_3
+  - first:
+      213: 6696418818947288491
+    second: surprise-2_256_4
+  - first:
+      213: -8624081144790334349
+    second: surprise-2_256_5
+  - first:
+      213: -7086663831338697959
+    second: surprise-2_256_6
+  - first:
+      213: 1356989529257850271
+    second: surprise-2_256_7
+  - first:
+      213: -7121736872386394639
+    second: surprise-2_256_8
+  - first:
+      213: 4708094858944041576
+    second: surprise-2_256_9
+  - first:
+      213: -7189071442432157657
+    second: surprise-2_256_10
+  - first:
+      213: 7927993314216944409
+    second: surprise-2_256_11
+  - first:
+      213: -7298883720283057926
+    second: surprise-2_256_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: surprise-2_256_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 319
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd985390f513b4270800000000000000
+      internalID: 8235730627823241695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 319
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff90c04d6cd8c49c0800000000000000
+      internalID: -3941619688755426817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 319
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa4396d4548d7a90800000000000000
+      internalID: -7314544719867720964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 319
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a6b152804c9c5f0800000000000000
+      internalID: -735841524837029219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_4
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 319
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad089acf657eec50800000000000000
+      internalID: 6696418818947288491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 240
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c0a224eb115880800000000000000
+      internalID: -8624081144790334349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 7
+        width: 233
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb27acacc17ad90800000000000000
+      internalID: -7086663831338697959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 256
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95b65789cef4d210800000000000000
+      internalID: 1356989529257850271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_8
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 7
+        width: 233
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f58b911c028a2d90800000000000000
+      internalID: -7121736872386394639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_9
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 7
+        width: 240
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862d3346453865140800000000000000
+      internalID: 4708094858944041576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_10
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 7
+        width: 233
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7281de8cc994b3c90800000000000000
+      internalID: -7189071442432157657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7
+        width: 256
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913a29b3ae3e50e60800000000000000
+      internalID: 7927993314216944409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprise-2_256_12
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 7
+        width: 233
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af095a37de725ba90800000000000000
+      internalID: -7298883720283057926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      surprise-2_256_0: 8235730627823241695
+      surprise-2_256_1: -3941619688755426817
+      surprise-2_256_10: -7189071442432157657
+      surprise-2_256_11: 7927993314216944409
+      surprise-2_256_12: -7298883720283057926
+      surprise-2_256_2: -7314544719867720964
+      surprise-2_256_3: -735841524837029219
+      surprise-2_256_4: 6696418818947288491
+      surprise-2_256_5: -8624081144790334349
+      surprise-2_256_6: -7086663831338697959
+      surprise-2_256_7: 1356989529257850271
+      surprise-2_256_8: -7121736872386394639
+      surprise-2_256_9: 4708094858944041576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
